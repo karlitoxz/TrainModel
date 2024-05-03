@@ -1,11 +1,15 @@
 #pip install huggingface_hub transformers evaluate dataset scikit-learn accelerate -q
+#https://huggingface.co/docs/transformers/perf_infer_gpu_one
+#https://github.com/huggingface/transformers/issues/2704
+#https://stackoverflow.com/questions/77237818/how-to-load-a-huggingface-pretrained-transformer-model-directly-to-gpu
+#https://stackoverflow.com/questions/57814535/assertionerror-torch-not-compiled-with-cuda-enabled-in-spite-upgrading-to-cud
 
 from huggingface_hub import list_datasets,dataset_info
 from datasets import list_datasets, load_dataset,DatasetInfo
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from huggingface_hub import login
-from transformers import TrainingArguments, Trainerclear
+from transformers import TrainingArguments
 
 print("#Traer informacion de el dataset karlitoxz/DataSetServiefectivo")
 res = dataset_info("karlitoxz/DataSetServiefectivo")
@@ -32,7 +36,7 @@ small_train_dataset = small_train_dataset.map(tokenize_function, batched=True)
 small_eval_dataset = small_eval_dataset.map(tokenize_function, batched=True)
 
 print("#Comienza modelado")
-model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=3)
+model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=3,device_map = 'cuda')
 
 print("#iniciar sesion en huggingface")
 loginHF = login(token="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")
@@ -67,15 +71,15 @@ trainer = Trainer(
 )
 
 print("#Inicio de trainer.train")
-trainer.train()
+#trainer.train()
 
 
 print("#guardar en local:")
-trainer.save_model("/modelo")
+#trainer.save_model("/modelo")
 
 print("#subir a la nube")
-trainer.push_to_hub()
+#trainer.push_to_hub()
 
 print("#subir tokenizer")
-tokenizer.push_to_hub("karlitoxz/ServiModel")
+#tokenizer.push_to_hub("karlitoxz/ServiModel")
 
