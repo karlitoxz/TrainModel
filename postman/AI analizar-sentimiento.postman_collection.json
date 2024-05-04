@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "ac1f1a60-23c3-40b7-bafe-2834cd24d32c",
+		"name": "AI analizar-sentimiento",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14707368"
+	},
+	"item": [
+		{
+			"name": "SendText",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"text\": \"si soy yo\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "127.0.0.1:5000/analizar-sentimiento",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"analizar-sentimiento"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
