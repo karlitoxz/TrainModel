@@ -1,13 +1,16 @@
 #pip install transformers
 #pip install flask
+#pip install flask-cors
 
 from flask import Flask, request, jsonify
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app) 
 
 # Cargar el modelo y el tokenizador
-model_path = "./modelo"
+model_path = "modelo"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
