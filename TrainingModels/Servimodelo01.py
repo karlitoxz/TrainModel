@@ -70,12 +70,15 @@ print("#Inicio de trainer.train")
 trainer.train()
 
 
-print("#guardar en local:")
+print("#guardar modelo en local:")
 trainer.save_model("/modelo")
 
-print("#subir a la nube")
+print("#guardar pretrained en local:")
+tokenizer.save_pretrained("/modelo/pretrained")
+
+print("#subir modelo a la nube")
 trainer.push_to_hub()
 
-print("#subir tokenizer")
-tokenizer.push_to_hub("karlitoxz/ServiModel")
+print("#subir tokenizer a la nube")
+tokenizer.push_to_hub("ServiModel")
 
