@@ -5,7 +5,7 @@ from datasets import list_datasets, load_dataset,DatasetInfo
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from huggingface_hub import login
-from transformers import TrainingArguments, Trainerclear
+from transformers import TrainingArguments
 
 print("#Traer informacion de el dataset karlitoxz/DataSetServiefectivo")
 res = dataset_info("karlitoxz/DataSetServiefectivo")
@@ -35,7 +35,7 @@ print("#Comienza modelado")
 model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=3)
 
 print("#iniciar sesion en huggingface")
-loginHF = login(token="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")
+loginHF = login(token="hf_")
 print(loginHF)
 
 import numpy as np
@@ -76,6 +76,11 @@ trainer.save_model("/modelo")
 print("#subir modelo a la nube")
 trainer.push_to_hub()
 
+print("#guardar tokenizer Local")
+tokenizer.save_pretrained("/karlitoxz/pretrained")
+
 print("#subir tokenizer a la nube")
 tokenizer.push_to_hub("ServiModel")
+
+
 
