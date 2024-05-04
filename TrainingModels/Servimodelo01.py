@@ -73,9 +73,6 @@ trainer.train()
 print("#guardar modelo en local:")
 trainer.save_model("/modelo")
 
-print("#guardar pretrained en local:")
-tokenizer.save_pretrained("/modelo/pretrained")
-
 print("#subir modelo a la nube")
 trainer.push_to_hub()
 
