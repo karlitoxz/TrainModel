@@ -13,7 +13,7 @@
     <div class="row gx-1">
         <div class="col-12 m-5 pb-5">
 
-        <form>
+        <form id="sentimiento-form">
         <div class="form-group row">
             <label for="text" class="col-2 col-form-label">Frase o palabra</label> 
             <div class="col-10">
@@ -23,7 +23,7 @@
                     <i class="fa fa-file-text-o"></i>
                 </div>
                 </div> 
-                <input id="text" name="text" placeholder="si soy yo" type="text" class="form-control">
+                <input id="texto" name="texto" placeholder="si soy yo" type="text" class="form-control">
             </div>
             </div>
         </div> 
@@ -33,10 +33,35 @@
             </div>
         </div>
         </form>
-    
+        <div class="col-12" id="resultado"></div>
         </div>
     </div>
 </div>
+
+
+<script>
+    document.getElementById("sentimiento-form").addEventListener("submit", function(event) {
+        event.preventDefault();
+        // Obtener el texto del formulario
+        var texto = document.getElementById("texto").value;
+        // Hacer la solicitud POST al servidor Flask
+        fetch("http://192.168.0.16:5000/analizar-sentimiento", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ texto: texto })
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Mostrar el resultado en la página
+            document.getElementById("resultado").innerHTML = "<strong>Resultado:</strong> " + JSON.stringify(data);
+        })
+        .catch(error => {
+            console.error("Error al enviar la solicitud:", error);
+        });
+    });
+</script>
 
 </body>
 </html>
