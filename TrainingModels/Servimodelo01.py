@@ -5,7 +5,7 @@ from datasets import list_datasets, load_dataset,DatasetInfo
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from huggingface_hub import login
-from transformers import TrainingArguments
+from transformers import TrainingArguments, Trainer
 
 print("#Traer informacion de el dataset karlitoxz/DataSetServiefectivo")
 res = dataset_info("karlitoxz/DataSetServiefectivo")
