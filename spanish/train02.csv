@@ -1,4 +1,142 @@
 text,label
+"Sí, habla @user. ¿En qué puedo ayudarte?",0
+"Buenos días, sí, soy @user. ¿En qué puedo servirte?",0
+"Sí, soy @user. ¿En qué puedo colaborar contigo?",0
+"Sí, aquí está hablando @user. ¿En qué puedo asistirte?",0
+"Sí, en efecto, soy @user. ¿Qué necesitas?",0
+"Así es, soy @user. ¿Qué puedo hacer por ti?",0
+"Sí, soy yo. ¿Con quién tengo el gusto?",0
+"Exacto, hablas con @user. ¿En qué puedo apoyarte hoy?",0
+"Sí, soy @user. ¿Cómo puedo ayudarte?",0
+"Sí, efectivamente. ¿Cuál es el motivo de la llamada?",0
+"Sí, conozco a @user Es un buen amigo/colega/conocido",0
+"Sí, he oído hablar de @user pero no lo conozco personalmente",0
+"Sí, tengo una relación profesional/personal con @user",0
+"No, no conozco a @user",2
+"Sí, he tenido tratos con @user en el pasado",0
+"Sí, @user es un vecino/miembro de mi comunidad",0
+"Sí, @user y yo compartimos intereses/hobbies/aficiones comunes",0
+"Sí, soy familiar de @user",0
+"No estoy seguro ¿podrías proporcionar más contexto sobre quién es @user?",2
+"Sí, he trabajado/estudiado/conversado con @user anteriormente",0
+"Lo siento, pero no tengo información sobre eso en este momento",2
+"Todavía no hemos recibido ninguna confirmación de pago",2
+"No puedo verificar eso en este momento",2
+"No tenemos registro de ningún pago a su nombre",2
+"Lamentablemente, no hemos procesado ningún pago hasta ahora",2
+"No puedo confirmar el estado del pago en este momento",2
+"No hemos recibido ninguna notificación de pago",2
+"Actualmente no tenemos acceso a esa información",2
+"No puedo proporcionar detalles sobre pagos pendientes",2
+"No hemos visto ningún pago registrado bajo su nombre",2
+"Sí, su pago ha sido procesado correctamente",0
+"¡Sí, ya hemos recibido su pago!",0
+"Absolutamente, su pago ha sido confirmado",0
+"Sí, puedo confirmar que su pago ha sido registrado en nuestro sistema",0
+"Correcto, el pago ha sido realizado con éxito",0
+"Sí, su transacción ha sido completada con éxito",0
+"Por supuesto, su pago ha sido recibido y procesado",0
+"Sí, su factura ha sido saldada correctamente",0
+"Sí, el pago se ha registrado en nuestra base de datos",0
+"Puedo confirmar que su pago ha sido recibido y registrado en nuestra cuenta",0
+conmigo,0
+sí,0
+si,0
+si soy,0
+si soy yo,0
+@user yo,0
+habla con el,0
+habla con @user,0
+habla con ella,0
+mañana pago,0
+hoy pago,0
+mas tarde pago,0
+en estos dias pago,0
+si hablas con @user,0
+si hablas con ella,0
+cuénteme,0
+bueno,0
+yo,0
+correcto,0
+dígame,0
+entendido,0
+hable,0
+colabore,0
+diga,0
+porfa,0
+asimismo,0
+comprendo,0
+precisamente,0
+conozco,0
+sabía,0
+confirm,0
+entidades,0
+entregar,0
+consultarlo,0
+ahora,0
+efectivo,0
+obviamente,0
+pagó,0
+pagué,0
+radique,0
+confirmo,0
+listo,0
+okay,0
+perfecto,0
+tranquila,0
+acepto,0
+conozco,0
+ahorita,0
+mañana,0
+hoy pago,0
+no,2
+noun,2
+now,2
+equivoca,2
+menos,2
+discúlp,2
+evitar,2
+perdóname,2
+moleste,2
+omiso,2
+olvide,2
+verifique,2
+equivocó,2
+cancel,2
+revisar,2
+anulad,2
+suspendid,2
+reclam,2
+vencido,2
+olvid,2
+retraso,2
+demora,2
+después,2
+apenas,2
+raro,2
+trato,2
+inconveniente,2
+problemas,2
+"Lo siento, pero no podemos generar un acuerdo de pago en ese plazo",2
+"No, lamentablemente no es posible establecer un acuerdo de pago tan rápidamente",2
+"No podemos comprometernos a generar un acuerdo de pago tan pronto",2
+"Me temo que no podemos cumplir con esa solicitud en el plazo que has indicado",2
+"No podemos generar un acuerdo de pago en este momento",2
+"Lamentablemente, no podemos completar un acuerdo de pago tan rápidamente",2
+"No es factible generar un acuerdo de pago tan pronto como lo requieres",2
+"Nos gustaría ayudarte, pero necesitaríamos más tiempo para generar un acuerdo de pago",2
+"Lo siento, pero necesitaríamos más tiempo para establecer un acuerdo de pago",2
+"No podemos confirmar un acuerdo de pago en este momento",2
+"Sí, podemos generar un acuerdo de pago según tu preferencia",0
+"¡Por supuesto! Estamos disponibles para establecer un acuerdo de pago",0
+"Sí, estamos dispuestos a generar un acuerdo de pago",0
+"Claro, podemos organizar un acuerdo de pago sin problemas",0
+"Sí, podemos proceder con un acuerdo de pago según tu conveniencia",0
+"Por supuesto, podemos arreglar un acuerdo de pago sin inconvenientes",0
+"Sí, podemos adaptarnos y generar un acuerdo de pago",0
+"¡Absolutamente! Estamos listos para establecer un acuerdo de pago",0
+"Sin duda, podemos generar un acuerdo de pago dentro del plazo solicitado",0
+"Sí, podemos cumplir con tu solicitud y generar un acuerdo de pago",0
 estoy hasta el ojete de que me digáis que tengo cara de mala leche,2
 @user Por?  Tenía pensado verla después de la segunda de Daredevil,1
 Esto de estar feliz mola,0
@@ -1838,69 +1976,3 @@ Como me mola ver lo que escuece en la cool dark left las manifestaciones multitu
 No puedo poner el insta histories ese raro  alguna ayuda?,2
 Apagado o fuera de cobertura,1
 "@user Bellísima. La imagen con el hell-hound me ha conqusitado *_* Justo hoy hacía una reseña de la primera película de ""Predator"".",0
-conmigo,0
-sí,0
-si,0
-cuénteme,0
-bueno,0
-yo,0
-correcto,0
-dígame,0
-entendido,0
-hable,0
-colabore,0
-diga,0
-porfa,0
-asimismo,0
-comprendo,0
-precisamente,0
-conozco,0
-sabía,0
-confirm,0
-entidades,0
-entregar,0
-consultarlo,0
-ahora,0
-efectivo,0
-obviamente,0
-pagó,0
-pagué,0
-radique,0
-confirmo,0
-listo,0
-okay,0
-perfecto,0
-tranquila,0
-acepto,0
-conozco,0
-ahorita,0
-mañana,0
-hoy pago,0
-no,2
-noun,2
-now,2
-equivoca,2
-menos,2
-discúlp,2
-evitar,2
-perdóname,2
-moleste,2
-omiso,2
-olvide,2
-verifique,2
-equivocó,2
-cancel,2
-revisar,2
-anulad,2
-suspendid,2
-reclam,2
-vencido,2
-olvid,2
-retraso,2
-demora,2
-después,2
-apenas,2
-raro,2
-trato,2
-inconveniente,2
-problemas,2
