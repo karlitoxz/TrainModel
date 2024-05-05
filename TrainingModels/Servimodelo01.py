@@ -35,7 +35,7 @@ print("#Comienza modelado")
 model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=3)
 
 print("#iniciar sesion en huggingface")
-loginHF = login(token="hf_")
+loginHF = login(token="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")
 print(loginHF)
 
 import numpy as np
@@ -71,16 +71,16 @@ trainer.train()
 
 
 print("#guardar modelo en local:")
-trainer.save_model("/modelo")
+trainer.save_model("/karlitoxzLocalModel")
 
 print("#subir modelo a la nube")
 trainer.push_to_hub()
 
 print("#guardar tokenizer Local")
-tokenizer.save_pretrained("/karlitoxz/pretrained")
+tokenizer.save_pretrained("/karlitoxzLocalModel")
 
 print("#subir tokenizer a la nube")
-tokenizer.push_to_hub("ServiModel")
+tokenizer.push_to_hub()
 
 
 
