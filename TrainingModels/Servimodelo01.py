@@ -21,7 +21,7 @@ print("# se carga el modelo lxyuan/distilbert-base-multilingual-cased-sentiments
 modelo = "lxyuan/distilbert-base-multilingual-cased-sentiments-student"
 print(modelo)
 
-model_path = ("./modelo")
+model_path = ("modelo")
 
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
