@@ -80,7 +80,7 @@ print("#guardar tokenizer Local")
 tokenizer.save_pretrained("/karlitoxzLocalModel")
 
 print("#subir tokenizer a la nube")
-tokenizer.push_to_hub()
+tokenizer.push_to_hub(karlitoxz/ServiModel)
 
 
 

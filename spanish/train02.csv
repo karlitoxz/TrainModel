@@ -40,6 +40,7 @@ text,label
 "Todavía no hemos recibido ninguna confirmación de pago",2
 "¡Sí, ya hemos recibido su pago!",0
 @user yo,0
+@user soy yo,0
 abonare,0
 acepto,0
 ahora,0
@@ -96,6 +97,11 @@ miercoles cancelo esa deuda,0
 viernes pago la poliza,0
 moleste,2
 no,2
+No,2
+NO,2
+nO,2
+no se me olvidó,2
+no pagare la poliza,2
 noun,2
 now,2
 obviamente,0
@@ -121,24 +127,31 @@ si puedo pagar,0
 puedo pagarme,0
 radique,0
 raro,2
-reclam,2
+no quiero esa poliza,0
+esa poliza no es mia,0
+quiero cancelar la poliza,0
+reclamo,2
 retraso,2
 revisar,2
 sabado,0
 sabía,0
 si hablas con @user,0
 si hablas con ella,0
+es mi nombre,0
 si soy yo,0
 si soy,0
 si,0
-suspendid,2
-sí, cuando las,0
+SI,0
+Si,0
+sI,0
+suspendido,2
+"sí, cuando las",0
 sí,0
-te digo mi nombre es juan romero,0
+"te digo mi nombre es juan romero",0
 tranquila,0
 trato,2
-un momento ,si,0
-un momento si,0
+"un momento ,si",0
+"un momento si",0
 vencido,2
 verifique,2
 yo me llamo @user,0
@@ -205,13 +218,13 @@ Se que la pena de muerte no es algo bueno . Pero que diablos podemos hacer con l
 "@user se llama Wolf, es la mascota #SeSalen en apoyo a los deportistas paralímpicos  Más inf http 😃",1
 Que dicha que hay trabajo y salud y vacaciones también,0
 @user Impresionante. Una pena que hoy no pueda hacer una foto del atardecer.. P.d Gracias guapiño,2
-"Este viernes iré al cine a ver #NoRespires para celebrar mi cumple. Por cierto, no estáis invitados",1
+"Este viernes iré al cine a ver #NoRespires para celebrar mi cumple. Por cierto, no estáis invitados",2
 La pulsera es preciosa tio,0
 @user es lamentable un tema tan sensible jamás con ese enfoque,2
 "-Me caes muy bien  -Tienes que jugar más partidas al lol con Russel y conmigo -Por qué tan Otako, deja de ser otako -Haber si me muero",1
 "@user, vaya, felicidades atrasadas y muchas gracias",0
 "@user  Otra cosa es que no tuviera seguridad social, porqe no era obligatorio en su situacion. Lee, los libros no muerden",2
-"Trato de manejar esa sensación de: ""no me soporto a mi misma"" de estos ultimos 2 días ¡qué dolor! Es que no soy yo misma. #malditoandres",1
+"Trato de manejar esa sensación de: ""no me soporto a mi misma"" de estos ultimos 2 días ¡qué dolor! Es que no soy yo misma. #malditoandres",2
 @user Que bonita la gente educada un gran abrazo para vos 🤗,0
 "@user En Espanya la prensa ni es libre, ni es independiente, ni muchísimo menos plural  Síntoma de nuestra pobre democracia.",2
 @user fuera del típico saludo navideño tengo una duda: pasan Navidad juntos o cada uno con su familia? Saludos desde Lima,1
@@ -220,31 +233,30 @@ Se me rompió el pantalón horizontalmrnnte por el muslo hasta debajo de la nalg
 "Estimada @user, reciba un cordial saludo, nosotros somos el 1er Centro de Ozonoterapia en el Perú, contamos con muchos tratamientos",1
 FF a los geniales de @user !!,0
 "90% para designar a quienes somos muy aficionados a todos este mundo nippon y aunque la elicación suene que tiene un ""final feliz"" mmm",2
-sería muy chuzo tener una gopro pero yo de mi casa no salgo así que no tendría mucho sentido.,1
+sería muy chuzo tener una gopro pero yo de mi casa no salgo así que no tendría mucho sentido.,2
 2. Si. Eres mi crush máximo aunque te considere de mis mejores amigos,0
 "Nunca dejes el fb abierto y tu hermana a lado, es un PELIGRO!",2
-"Tanto ritmo en el restaurant #DonMarcelo Si vienes a #Cusco, no olvides visitarlo @ Plaza de…",1
 @user Google luego se encarga de asociar el contenido (bien escrito) con la búsqueda que se hizo (mal escrita).,0
 Ayay quiero grrabar un trocito de Drown con el ukelele porque tiene que quedar preciosa. Pero tengo la voz fatal,2
 @user debería liarla en el @user con un stand que proyectara desde el público a las pantallas del concierto  #MTVDcode2016.,1
 "@user que ricoooo, me abriste el apetito!! Solo una cosa. Las aceitunas tienen que ser las negras",0
 "Pero como no tengo una puta mierda en común pues nadie me mete para ningún grupo ni nada, claro",2
-Me gusta mucho ir a Chepén y estar con la familia de Kike. Lo que no me gusta es tener que trabajar el lunes siguiente,1
+Lo que no me gusta,2
 "Bueno,gracias a algunos(casi gratis) por confiar su salud en mi(un año más) no se enfermen mucho este año pues, jaja mentira, saludos",0
 Que le pasa a @user que no puede estar en Twitter y WhatsApp a la vez? Las 2 fiestas están igual de buenas y se esta perdiendo una!,2
 "Haces un update con tu pata de intercambio. Te pregunta, entre otras cosas, por tu vida amorosa. Suena ""brillas"" de León Larregui.",1
 Hace tres días que entre a @user y hoy me he pegado el segundo clip  1080 desde lo alto del ala del caza http,0
 Cuando pasan de tu p*** cara  😢,2
-@user la divaza te tiene cansado toda la noche no te deja dormir,1
+@user la divaza te tiene cansado toda la noche no te deja dormir,2
 Tengo una perrina adorable... Sabéis que me acompaña hasta la a habitación cuando me voy a dormir?,0
 "No me puedo quedar dormida ni un ratito, porque para mi mamá ya estoy anémica de nuevo",2
-"@user No se , creo que no . Yo solo mire mi fecha",1
+"@user No se , creo que no . Yo solo mire mi fecha",2
 "Con lo cual he abierto todas las ventanas y he conectado el móvil a los altavoces, a ver si ahora suena mejor",0
 "@user Tio entonces piensas que mosca es un insulto, yo creo que eso es un poco irrespetuoso a las pobres",2
-"@user hoy tengo libre JAJA , viernes no puedo",1
+"@user hoy tengo libre JAJA , viernes no puedo",2
 @user @user ahora se me despierta la curiosidad de saber cuáles eran esos antiguos nombres...,0
 "@user Si, lástima que el bicho grandote sirva para sembrar destrucción y muerte",2
-"ayer me dio mi dio mi ataque de panico retrocedi a cuando tenia 5 años, me despertaba sola en cama y comenzaba a gritar pq no habia nadie",1
+"ayer me dio mi dio mi ataque de panico retrocedi a cuando tenia 5 años, me despertaba sola en cama y comenzaba a gritar pq no habia nadie",2
 Sólo la Karlita me entiende y me da buenos consejos,0
 "Ya no tengo libro para leer ni serie para ver, mis noches se están volviendo aburridas",2
 Con entusiasmo y optimismo en este primer día del año. Todo depende de lo que Dios me tiene preparado. #VamosConFe,1
@@ -256,7 +268,7 @@ Difícilmente el quiera algo serio con ust si todo empezó por yaleo y nudes res
 cuando estás conversando de la más tranquila y te hacen recordar que mataron al perro de majin boo,1
 @user gracias Manuel por este arte de recoger mi texto en tu revista  Un abrazo grande!,0
 "Quiero comer algo, aunque estoy llena",2
-No sabía que el amor de mi vida iba a cantar. Hubiese visto el programa.,1
+No sabía que el amor de mi vida iba a cantar. Hubiese visto el programa.,2
 "@user y cómo mezclan realidad con mundos paralelos, y que es diferente a las demás películas de Marvel",0
 glowen sigue a cuentas inactivas y es en plan oh seguro que esas cuentas te dan mucho más apoyo que a las que le diste unf JAJAJA,2
 "Elige amar, así duela, así parezca un imposible, así te tiemble el alma, así tengas miedo, así vayas a salir herida. El amor transforma",1
@@ -265,7 +277,7 @@ Me gustaría arreglar tantas cosas pero no puedo arreglar ninguna y es muy frust
 Ha ardido una caravana aparcada al lado de la playa   Fuego ya sofocado por los bomberos @… http,1
 "#SinPelosEnLaLengua Además,la novia de luz esta buena  Que opináis de @user maricon??",0
 Atm veo los 7 primeros teams un poco lejos de los 3 últimos. A ver que pasa si mejoran y/o cambian sus estrategias etc idk,2
-El huequito del septum no se me ha cerrado por completo pero ya no me cabe la pieza,1
+El huequito del septum no se me ha cerrado por completo pero ya no me cabe la pieza,2
 "@user Que guapísimo , dejaron mendizorroza, pero San mames ... de los + guapos del MUNDO¡¡ sin duda.(opinión)",0
 "Por payasa debo hacer un trabajo grupal para mañana, algunos grupos aún no terminan y yo tengo que hacerlo en máximo 2 horas",2
 "Después de siete largos años vuelvo a pasar navidad junto con mi mamá, mi papá y mi hermana. Todos juntos con una yapita de sobrino.",1
@@ -283,13 +295,12 @@ Nicole choteando idiotas desde tiempos inmemorables!,1
 @user @user Fue la última vez que fuimos al cine,1
 @user Pero es que está muy rica,0
 @user @user La pena es que no incluya a modo de extra el original. Con el de consola te lo regalaban con el preorder,2
-"Si pudiese cantar bonito no dejaría de hacerlo con ""Come what may"" de Moulin Rouge",1
 @user ya mismo seguro! Un abrazo fuerte,0
 Las horas que son y sigo sin ser capaz de ponerme a estudiar....el sueño puede conmigo,2
-"@user lo se  pero no miraba la acc, solo miraba de vez en cuando el combo y me emocionada y nervios y shit",1
 @user Que bonita zona de entreno escogieron,0
 Creo que voy a ponerme talking to the moon de Bruno Mars porque estoy plof y esa cancion es tan triste que,2
-@user Yo también vi la peli y lloré lo que no está escrito  Ahora estoy leyendo el libro y me estoy echando unas risas impresionantes!,1
+@user Yo también vi la peli y lloré lo que no está escrito,2
+Ahora estoy leyendo el libro y me estoy echando unas risas impresionantes!,0
 Envidio de buena manera a los que tienen la oportunidad de ir mañana al estadio,0
 "#MePasóPorPavazo @user Amigo que guapo eres, mi amiga y yo queremos hacer un trio, y yo todo ganador, Me pepearon @user",2
 @user Mañana si me duermo en la oficina le cuento para que se sienta culpable *busca el cofal y las pantuflas* Bonita noche,1
@@ -298,7 +309,8 @@ Envidio de buena manera a los que tienen la oportunidad de ir mañana al estadio
 Yo sé que estot todo el día diciéndolo peeeero vamos a merendar a algún sitio cuki,1
 @user no las des preciosa,0
 Bueeeeno... no me siento bien. Gracias playlist por cagarme peor,2
-"yo esque los veranos curro, asi que no puedo quedar mucho  pero si algun dia te pasas avisa y vamos a full hd  @user",1
+"yo esque los veranos curro, asi que no puedo quedar mucho",2
+"pero si algun dia te pasas avisa y vamos a full hd  @user",0
 "No todo es orines y ceniza: hoy vi una niña con patines y casco divirtiéndose en la Plaza de la Cultura, y fue muy lindo",0
 @user  Ahora es Abel quien está resfriado  es lo ke tiene estar juntos todo el tiempo jajaja el curro bien?,2
 "@user @user sí, celulares distintos en realidad",1
@@ -319,7 +331,7 @@ Que ganas tengo de volver a disfruta pronto de él y que lejano lo veo    #SiNoE
 @user es lo que tiene ser el mejor,1
 @user Que tengas un fantástico día Caeli,0
 Mañana vuelvo a trabajar después de 15 días de vacaciones. Donde quedan los 3 meses de verano de pequeños?  #QueDuroEsSerAdulto,2
-"@user @user @user es un término coloquial, no un análisis",1
+"@user @user @user es un término coloquial",1
 @user @user @user Gran programa pero se extraña a Leto !,0
 @user sabran los jueces quê es honestidad? ?..y respeto? ?..no postulaba a un mercado de abastos. .si claro p lo q le interesa,2
 @user Ayer la gente de mi FB se portó mejor que la de mi TL de TW en relación con el tema de los himnos...,1
@@ -337,10 +349,9 @@ Hoy se acaba la fiesta más bonita del año! #últimodíadenavidad #bajadadereye
 ¿Os apetece un directo hablando del partido y un poco de la jornada en general? Si veo muchos likes en este tweet me animo,1
 @user @user @user las tengo pero aún no las he leído. Caerán prontito,0
 Vengo hasta Carabanchel para estudiar pero la biblioteca esta cerrada,2
-Seré breve: quiero yuquitas y por mi chamba no venden,1
 "@user ¡Enhorabuena! Eres la ganadora del sorteo,escríbenos por mensaje privado para darte el premio",0
 "Era a la 6 que me quería levantar, no a las 5:15 con el ruido de una hijueputa licuadora gracias al descerebrado de mi primo",2
-"El era como un profe de ingles gratis para mi , noooooo #VideoMTV2016 @user",1
+noooooo,2
 Y se acabó El Oso el Tigre y los demás fue bueno mientras duró,0
 Es que por las noches en mi cuarto y mi sobremesa me angustio sabéis  Me vengo al sofá con el portátil y el ventilador y eso,2
 "@user Yo estoy valorando Movistar. Son careros, pero tienen buenas ofertas para el primer año. Y luego ya se verá...  @user",1
@@ -364,7 +375,6 @@ Buenos días amigos de Facebook   ¡¡Volvemos a tener Granizados de… http,0
 @user yo me mande a traer una XL por ebay y me queda enorme y eso que estoy panzon jaja,1
 "El día 2 tengo los exámenes, suena lejano pero es la semana que viene jajaxd",0
 "Desesperada estoy, trabajaré en cualquier cosa",2
-@user Hahahaha no me enoja. Solo juego aunque es cierto,1
 @user ¡muchísimas gracias Blanca! La verdad es que es un plato fácil pero muy rico y vistoso,0
 Estoy segura que esta fue mi última entrevista a Jaime Saavedra como ministro de Educación. Vamos a perder un gran ministro.,2
 @user @user es que hablo de sus correos corporativos en sus PCs,1
@@ -373,7 +383,6 @@ Estoy segura que esta fue mi última entrevista a Jaime Saavedra como ministro d
 "Ay Dios he pecado, pero es que ese bikini estaba re lindo y necesitaba bronceador",1
 "Me voy mañana para la playa, confiando que el sol me quite esta gripe tan horrible.",0
 @user Eso es antiguo ya,2
-"No Dennis, no puedes cometer los mismo errores, es hora de cambiar y cometer nuevos errores",1
 "@user y si puedo trabajar en Madrid, Buenos Aires o Bogotá yo sería también muy feliz hihihihi",0
 @user Llévales bibliografía! La evidencia en educación médica existe,2
 @user pero podrías rescatar las cosas buenas que te pasaron ánimos,1
@@ -385,7 +394,7 @@ Estoy segura que esta fue mi última entrevista a Jaime Saavedra como ministro d
 "@user Ya ves, parece un comic más maduro pero el dibujo se delata solo",1
 Tenemos nueva actualizacion en F1 2016! Muchos cambios y mejoras   http,0
 Me gustaría que Movistar no me deje colgado sin internet después de haberme ido de Orange,2
-"@user hmmmm no sé, aún las siento pegadas en el cielo de la boca",1
+"@user hmmmm no sé",2
 Segunda sesión del día y ahora ya voy notando la adaptación    Muy cómodo  En ocasiomes hago… http,0
 Estos días me encuentro muy débil... espero que se me pase pronto!!!,2
 @user Cual es tu helado favorito y comida? Como te parecio Costa Rica cuando viniste y a donde fuiste? Sigueme pls saludos bye,1
@@ -394,7 +403,7 @@ Estos días me encuentro muy débil... espero que se me pase pronto!!!,2
 @user una gran oportunidad para que disfrutemos (con @user ) de su trabajo...,1
 No hay nada mejor que ver el estreno de #RogueOne con la mejor compañía,0
 "@user yo lo único e puedo rescatar es TØP y Coldplay,pero no tengo un cinco.",2
-2 meses que parecen una eternidad. no sabes como me haces falta mi querida abuelita,1
+2 meses que parecen una eternidad. no sabes como me haces falta mi querida abuelita,2
 "@user Qué buena pinta.. se parece mucho a un ""suquet de rape"" por aquí",0
 @user Porque era el primer semestre y te daba miedo faltar. A ver si este año nos abandonas menos.,2
 "@user acabo de subir una foto con él, pero es el mismo nombre que mi twitter",1
@@ -403,16 +412,15 @@ Pensar en irse pronto a la cama y ver que dan 2 capítulos de #minorityreport la
 @user Exacto! Todo lo que él hace lo hace con el corazón y desde el corazón,1
 "Bueno, ya he montado la biblioteca y de no tener espacio, con ella me sobran huecos jajaja En unos años estara llenita",0
 Con lo que voy a gastar comprándome algo para halloween me compro una mudada y de paso la entrada en 5 mil,2
-mi hermoso @user esta que hace live en ig y no puedo ver me quiero morir queria un saludo para las @user,1
 La final de @user esta esta muy interesante,0
 mi vida es una mierda primero me enamoro de un macedonio en ibiza y ahora del timbales de la panorama,2
-"Estoy bien  Muchas gracias a aquellos que preguntais, el problema es que hoy no me dieron cita.. dijeron que imposible",1
+"el problema es que hoy no me dieron cita.. dijeron que imposible",2
 Es que es taaaaaan bonito,0
 Pero tenemos fe en que el TEC sea igual de masoquista que siempre y nos haga ir a como de lugar.,2
 Miraflores dime que dentro de ti hay buenos polos,1
 Recuerdo cuando le escribía a mi hermana @user para que me motivara y me hiciera sentir útil. Dios me dio a la mejor hermana,0
 "@user @user jaja y por que lo peor, los juegos de Ubisoft no son tan malos, lo que si es un poco malo es ser solo de Sony",2
-@user no porque no los tienes activados a todos,1
+@user no porque no los tienes activados a todos,2
 "La vida hay que verla de manera optimista. Hay que luchar, hay que ser fuertes ante todo.",0
 @user una especie de Titanic pero en versión cutre no?,2
 "@user hola, te contamos que el incidente que tuvimos con el aspersor ya se solucionó ¡Te esperamos pronto!",1
@@ -424,7 +432,7 @@ Recuerdo cuando le escribía a mi hermana @user para que me motivara y me hicier
 Ojalá todos tuvieran un techo y comida y pasar una buena noche buena,1
 Recibir este nuevo año en familia es lo más bonito y con un corazón agradecido por tanta bendición de nuestro amado Dios. #Feliz2017,0
 Ha muerto mi profesora de volumen/escultura y en serio que bajonazo,2
-@user No lo soy lemado,1
+@user No lo soy lemado,2
 @user que yo soy fiel tío,0
 "@user ni siquiera llegué para ver las competiciones de Río en directo, solo las barras asimétricas de Aliya",2
 ¡Hola @user! Una pregunta? La visita a la fábrica es gratuita o hay que pagar algo? Un saludo bonicos y bonicas mios!,1
@@ -433,7 +441,6 @@ Ya se que soy lo peor pero jo,2
 "@user somos dos! jaja ahora eres Martín? oye voy para Lima el prox mes, para el reencuentro d la u, avisas si estarás por esos días",1
 Algo bueno que le puedo encontrar al incendio de Villava es que esta tan cerca del Instituto... seria una pena que se quemase...,0
 "El problema de las ofertas ahorita, esque no llegó al mínimo para regalarle a mi amigo secreto. Y siento que lo voa estafar",2
--Amor 1:02 : Acabo de ver a mi hermana con su pretendiente -Camila Díaz 1:03 : uyyy no te exhaltes es normal jaja -Amor 1:04:Casi le pego,1
 @user se habia puesto octavo pero en la última vuelta se ha puesto 4,0
 Tan desesperado que hasta stalkea,2
 "@user Yo tengo un par, pero son sólo R",1
@@ -445,7 +452,6 @@ Me recomendais alguna silla gaming buena please,1
 me olvide de un pequeño detalle y ahora debo ir a Wong,1
 @user @user @user @user @user felicidades chicos !!nosotros como vuestros fans estamos super orgullosos,0
 Tan sólo es un mal día no una mala vida,2
-Que ganas de cagarla y decirle a mis papás que no se quedó donde una amiga si no donde su nuevo novio,1
 "@user ahh ya ya jajaja. Bueno, buenas noches, que descanse",0
 @user Yo mismo quiero hacerlo pero muchas veces me da pereza y me enfado conmigo mismo,2
 @user oye pero es carbohidrato,1
@@ -454,10 +460,11 @@ Soy muy poco cariñoso pero el amor esta,0
 "Todos vamos a ser puteados mañana, bonita Navidad eh #despedidos",1
 @user La vida nos lleva por caminos inextricables jajaja Me alegro de que te haya molado el programa de hoy,0
 "Mi imposible quiere irse a Europa. Yo tenía pequeñas esperanzas sabiendo que era imposible, pero ahora se las lleva para Europa",2
-@user pero no es lo mismo,1
+@user pero no es lo mismo,2
 @user que nos regales con capturas de imagen de tus actividades ya no es sorpresa. Lo sorprendente es que tienes inivitado!,0
 @user y vos tan sano,2
-"@user @user Vaya. No hemos invitado a nadie, la gente sea ido metiendo sola a la conversación.",1
+"@user @user Vaya. No hemos invitado a nadie",2
+"la gente sea ido metiendo sola a la conversación.",1
 @user @user @user @user @user soy la de atras JAJAJA me meo jo que foto mas chula,0
 Me cago en la puta ola de calor que está haciendo  haber si nos morimos,2
 ".@user hola, envié un correo debido a que mi usuario está supendido. Quisiera me ayuden con el inconveniente. Gracias",1
@@ -469,7 +476,6 @@ por qué el concurso de #SoyJustDancer es solo para españa? @user,2
 "@user @user ¡Hola, Irene! Para que la participación sea válida tiene que ser a través de Instagram",1
 @user @user Bien! Yo no se que tiene el mundo en contra de la tercera generación  Mi fav es la primera pero merece la pena.,0
 @user @user mis amigos hablando jodes .... K bonita amistad,2
-". @user necesito el libro de @user. Y también esa obra q os comento que no acabo de localizar. En breve, pasaré a veros",1
 "Buenos dias, vamos a hacer algunos recados y a empezar el dia con energia!!",0
 @user ni tu como soportas el calor sevillano hija mía,2
 El viernes dejo de ver a muchas personas por un buen tiempo y ah la,1
@@ -478,7 +484,6 @@ El viernes dejo de ver a muchas personas por un buen tiempo y ah la,1
 A las 17:30 pillo el bus,1
 @user Pablo de día y Paula de noche  Aquí me tenéis. Un verdadero placer chic@s!,0
 @user @user @user lo mas gracioso es que diciendo esas cosas solo fomenta aun mas el odio hacia el feminismo,2
-Tres cosas para lo que no soy buena: 1- cocinar 2- maquillaje 3- cantar. Pero así me quieren,1
 @user 👍🏻 aunque mejor todavía no tener caja tonta.  Desde que no veo la tele el día me cunde mucho más,0
 "@user @user ya lo sé, pobre Uno  Te acompaño en los feels",2
 @user Seguirme es lo único que tienes que hacer.,1
@@ -493,7 +498,6 @@ Menciono a Sofía en cosas bonitas y ella me lo paga bloqueandome por wa,2
 @user me pasa exactamente lo mismo,1
 "@user Gracias primito, le haré presente los saludos! Estás invitado si puedes vienes",0
 "Este día sera, muy pero muy largo ..",2
-"@user si , tengo q ver, para ir a la clínica tengo q pedir mínimo 2 días de vacaciones xq ni carnet tengo y no tengo dias",1
 "@user Mira,así haces ejercicio JAJAJA",0
 Más le vale venirse porque hacerme ilusiones está feísimo,2
 En pocos minutos empieza Combate!! Usa el HT #CbtHastaSiempre y coméntanos que fue lo que más te gusto de tu programa favorito...,1
@@ -517,10 +521,9 @@ La vida es demasiado corta para seguir las reglas...,1
 @user @user @user es que es una reivindicación muy de moda... Ya sabes... de gente pedante como yo,1
 "@user Mis Felicitaciones para Usted Señor Presidente. Su mensaje fue muy bueno, firme y directo. Mi familia y yo le mandamos saludos!",0
 @user ultimo dia hoy? Nooooo  que yo iba el miercoles que vuelvo de las vacaciones.,2
-Siempre ando metida en google buscando imágenes lindas  si me encanta. de lo que sea me gustaría que sean solo para mi pero no se puede,1
+Siempre ando metida en google buscando imágenes lindas  si me encanta.,1
 "@user @user claro jeje lo que sea será, siempre ahí que ser positivo y tener una sonrisa",0
 @user que me quiero poner las pulseras en la mano izquierda para que no me molesten al escribir pero,2
-Vamos a trabajar más en ello No puedo volver a ser una persona flemática,1
 @user aah Ok! Pues está genial porque no da sensación de estar encerrado,0
 "16 chocolates Ferrero no fueron suficientes, pa la próxima ojalá me regalen la de 54",2
 "Dicen que Twitch va mal hoy, pero aún así os pondré stream en 20 mins",1
@@ -544,22 +547,21 @@ La lluvia definitivo que no me tiee piedad cuando ando en bus,2
 "Me he en encontrado como 8761653729751528763 Colombianos entre Lima y Nasca, Perú.",1
 @user Denada  porcierto hazme un hueco en tu agenda de combates quiero ver lo que es capaz tu monotype contra el mio,0
 @user Dios por mi le daría todo mi dinero pero no tengo y soy menor no tengo tarjeta de PayPal Dios que mal la debe estar pasando,2
-Quiero comer algo rico pero no hay con quien salir #foreveralone,1
+Quiero comer algo rico pero no hay con quien salir #foreveralone,2
 Qué bueno que las aprovecharon @user @user,0
 Un gilipollas se me ha cruzado entero en una rotonda  y ya le estaba viendo que lo iba a hacer,2
 "@user si o si regresaras a Perú baby! Es más, cuando leas esto es probable que estés aquí ya #PorFin",1
 "@user Me los pusieron hace bien poco en casa de un colega, le dan serio",0
 "El primer año que empecé a vivir lejos de mi casa mami me llamaba todos los días, ya no, se pasan los días y nada, el amor se acaba",2
-No pude con mi genio y voy a almorzar. Para colmo combinado de pollo con gaseosa,1
+No pude con mi genio y voy a almorzar. Para colmo combinado de pollo con gaseosa,2
 "@user mejor así, que solo un grupo selecto lo sepa",0
 La gente se descojona de mi cuando me indigno y no se lo toman en serio,2
 @user he dicho acabadas  Better Call Saul saca en 2017 otra temporada,1
 @user @user ha sido genial conocerte maite te quiero mucho en serio una monada de chica,0
 @user Pero no es pan chino,2
-+ a veces se la pedía prestado se molestó y me la vendió para que no la joda. Ahora ella es la que más la usa,1
 Tuve un sueño muy muy lindo y hoy ando con todas las ganas,0
 "Quiero que vuelva el invierno  y ponerme pantalones largos y chaquetas y sudaderas y abrigos, puto verano.",2
-"- Amor, ¿vamos a ver la vida secreta de tus muscotas? - Hoy no puedo BB - No tienes dinero no? - No - Misio de mierda.",1
+"Hoy no puedo BB - No tienes dinero no? - No - Misio de mierda.",2
 @user @user @user mi profesor de instituto dice que he suavizado mucho el lenguaje. Con 16 años era más poético,0
 @user Jajaja Y al séptimo día descansó (?) Que mal mae Lo siento,2
 "@user los palitos no son bonitos, los puntos sí #sutileza",1
@@ -568,7 +570,7 @@ Cada vez que veo a esa muchacha está más guapa,0
 2da semana de talleres de naturaleza!! que nuevos retos vendran??,1
 @user bueno felicidades por el millon de crack que hay en el canal !! soy un suscriptor ya un poco antiguo a por mas DE PERU,0
 tio pero cuando dawn dispara a beth y daryl la dispara a ella inmediatamente y se pone a llorar,2
-@user @user no tengo catálogo de modelos de polvos azules amiga,1
+@user @user no tengo catálogo de modelos de polvos azules amiga,2
 @user Efectos prácticos. Aprovechar el desorden del rival. Lo hacemos todos,0
 La lluvia definitivo no me tiene piedad cuando ando en bus,2
 Lo bueno que mñn acaba sus finales,1
@@ -577,7 +579,6 @@ Cómo me desean feliz navidad si trabajo en 3 horas (?),2
 em diez días hace dos años desde que elsa tenia el pelo rapado por un lado,1
 "@user A mí me haces un favor, encantado  @user",0
 "@user Pobre   Pues aquí me va, atendiendo llamadas en la portería del colegio cual recepcionista telefónico",2
-"Queda claro que yo solo vivo para viajar~ No necesito casas ni propiedades, solo necesito boletos de avión y mi mapita",1
 "No me niegues, Señor, tu misericordia; que siempre me protejan tu amor y tu verdad. Salmos 40:11 Buen día a todos",0
 dios acabo de recoger mis libros pa segundo de bachillerato y el de historia de españa y el de geografía son jodidamente gordos,2
 Ya cambiaron al modelo d Paco Rabane. el que estaba antes era un muñequito yico.,1
@@ -589,7 +590,8 @@ Ya cambiaron al modelo d Paco Rabane. el que estaba antes era un muñequito yico
 "Decidme que al final de la gala diréis , QUE COMIENCEN LOS JUEGOS DEL HAMBRE! que al final solo quedará uno  #Gala1GH17",1
 "@user Los más buenazos, son los medio gruesitos y cortados de forma vertical. Según yo.",0
 "@user Pasa el link de la mas interesante please, por no ver 5 veces lo mismo",2
-@user @user @user vi ese video hace un tiempo me pareció chevere . Pero no me gusta la canción,1
+@user @user @user vi ese video hace un tiempo me pareció chevere.,0
+Pero no me gusta la canción,2
 Hoy pasaremos una hermosa tarde con ellos #ShowNavidad #CasaHogarMamáVictoria,0
 Mis anteojos están demasiado flojos y eso que tienen meses de comprados,2
 "La profesora se pregunta qué pasa con la segurdad jurídica, y yo solo sigo pensando en qué culpa tuvo Fatmagul",1
@@ -616,7 +618,6 @@ Desde hoy haré mejor las cosas,1
 El quinto día #cousins #Holidays @ Previos Restobar-Pub,1
 @user pues eliges bien lo poco que ves entonces querido amigo,0
 tengo un porrito ya liado.. pero no se para cuando,2
-"Yo sólo ame, y Di todo d mi..... aunque no soy perfecta, solo tengo un corazón sincero, una mente que te piensa a cada momento. pitufo",1
 Se viene algo bueno #Navidad #Imelda #Tronconavideño #Fresas #frambuesas #blueberries @ Imelda,0
 a mi mejor amiga no le gusta el ceviche ni los makis y me siento frustrada porque no podemos ser BUENAS mejores amigas,2
 A pesar de todo...veo sorpresa en el Bernabéu...llamadme loca,1
@@ -631,7 +632,6 @@ Por qué un partido a las 10 a.m.,1
 El huevin respectivo debido al feriado...vao a meter una caminata mas sus chelitas para al menos ver que hay abierto en la calle.,1
 "Por cosas así, estoy segura de que tomé una muy buena decisión",0
 "NUNCA dejen el Snapchat abierto en el celular de la mamá, creo hoy duermo en la calle",2
-@user para mí no son feas  hay feas y bonitas    te salvas de arder en el infierno por hetero,1
 "@user siempre habrá algo amiga, pero con el tiempo lo superas y pierden importancia",0
 @user y que el mae no sea tan desastroso como aparentó durante la campaña. Hope is all we have left,2
 El sábado se casa Adriel y eso me hace sentir super vieja maee cuando ibamos a pueblo viejo x olafos saliamos fuck off y yo era la niñera,1
@@ -655,7 +655,7 @@ Primera vez que David cena en mi casa y quiebra un vaso.,2
 @user No se si están editados.,1
 @user Correcto! Es pura arte. Mejor no lo pudiste describir. Felicidades!!! Bendiciones!,0
 "@user @user Por desgracia vende más  ,riñas,trifulcas,peleas,al cuello!! mátalo!!",2
-@user Lo mejor para el es que salga del Club Zidane no le da la Oportunidad de Jugar! A mi no me gusta que este en la Banca.,1
+@user Lo mejor para el es que salga del Club Zidane no le da la Oportunidad de Jugar! A mi no me gusta que este en la Banca.,2
 @user es la feria de mi tierra  Solo espero que sea un éxito y ser un gran anfitrión,0
 "No, no. Ya no te quiero, me declaro soltera a partir de ahora, me has hecho daño  @user",2
 "@user hombre!  Yo siempre y con la gente que me cae bien claro, con los que me caen mal ni agua  Muacc",1
@@ -664,7 +664,7 @@ Plan perfecto para terminar el fin de semana. @user - @user. Después @user - @u
 Vine a mi casa porque mis papás dicen que los tengo abandonados y me chantajearon con comida pero hoy iba para la playa en la noche,1
 Hoy recibí una buena noticia y llevo saltando de la emoción como 30 minutos.,0
 "Mar Negro q se haya caído un avión lleno de músicos, médicos q enviaron para alegrar a la gente en Siria me deja +segura q no existe dios",2
-@user las etiquetas son necesarias. Lxs locxs molamos. Si no quieres etiquetas no molas  LOOOOCAAAA jajajajaj,1
+@user las etiquetas son necesarias. Lxs locxs molamos. Si no quieres etiquetas no molas  LOOOOCAAAA jajajajaj,2
 "¡Venga va! A ver si consigo la versión física, que vista en tienda parece magnífica  @user  #DinastíaDelDienteDeLeón",0
 ¿por qué os empeñáis en que no soy española?,2
 "Amiguitos, yo siempre hablo/escribo de la misma forma, soy bastante cariñoso ... no te estoy gileando, ni quiero algo contigo, sí?",1
@@ -676,7 +676,6 @@ Tan triste mi vida que me hablan en Snapchat solo para decirme que mis animales 
 "A recuperar la resistencia física, hola Viernes sangriento!!!",1
 @user siiiiii tío  el viernes te invito a una litro jurao,0
 @user jajaja ya ves teneis algo encontra mia  espero que la proxima vez sea de vuestro equipo 😂,2
-@user Y suuuuper diferente a sus trabajos anteriores! Tengo que comprarlo tho porque no esta disponible en apple music,1
 #DiaDelVideojuegoHC por todas esas grandes tardes que nos hacen pasar y las que pasaran!,0
 @user Ya no es por bonito o por feo sino porque es un animal con sentimientos tía es horrible,2
 @user Feliz Año Bella! Las mejores vibras,1
@@ -703,16 +702,14 @@ Ustedes siempre han sido lo más bonito de mi año. Anita y Amaya,0
 @user @user @user convenciendo a mi hija mayor para verlo,1
 @user Bonito rincón  ¡Qué ganas de ver la nueva web!,0
 @user yo no soy normal,2
-"@user es que ya no era necesario llamar ,ya sabiamos lo que espera ,la proxima sera",1
+"@user es que ya no era necesario llamar ,ya sabiamos lo que espera ,la proxima sera",2
 Que agusto se queda una después del Circuito termolúdico de  @user,0
 Tenía más de un año de no usar Premiere Pro y no era tan mala editando... ahora lo olvidé todo,2
-Cuando te enamoras de cada flaca que pasa. Chimbote era chevere pero no me quirro ir de trujillo.,1
 "Pues ya es oficial, curro nuevo y mejor",0
 Tengo dos orzuelos enquistados en el ojo izquierdo y me hacen la cara muy asimétrica. Me veo raro,2
 "@user lo de la comida le quita toda la parte negativa entonces, buenaso. Gracias!! Que te vaya super bien en tus finales",1
 "@user perfecto!  Nada mejor que incitar a lectura. Ya me contarás que tal, es mágico. De esos para ""niños"" que no son para niños",0
 @user Lo mejor son sus amiguitos defendiéndole diciéndome a mí que pase página cuando es él el que no me deja en paz,2
-@user Ely todo bien? no se nada de ti u.u tengo número nuevo!,1
 "Si necesitáis un hater profesional de lo que sea, podéis llamar a @user",0
 @user porque mi equipo G8 se calienta demasiado y la bateria se baja rápido,2
 "@user Un chivi que hace videos y es más tocándose el cabello que video haciendo ""algo divertido o entretenido"".",1
@@ -721,13 +718,12 @@ Tengo dos orzuelos enquistados en el ojo izquierdo y me hacen la cara muy asimé
 @user vamos a juntos en concierto?,1
 #FelizMiercoles porque hoy pase lo que pase va ha ser un buen día,0
 "Como dijo @user, ""hay que ignorar a los trolls"", después de años usé de nuevo el block, el más pesado y bobo que conocí",2
-"@user oh no te la debo negrito, lo lamento, prometo ir al próximo kaos ir desde las 8 pm y guardarte cola",1
 "@user @user clado que sí. En serio, gracias por todo lo que nos has enseñado",0
 Me está entrando una depresión ahora mismo... ¿Para cuando la máquina del tiempo? Que me lleve de nuevo al 29 de junio joder,2
 @user i lleva mucho sin actualizar? ahora sucede que me enamoro del fic y lo dejan abandonado,1
 @user @user @user Ay yo no he visto la nueva temporada! Buena sugerencia,0
 @user Junto montas el unico dia que me llaman para tomar algo,2
-Mis lunes no volverán a ser iguales @user,1
+Mis lunes no volverán a ser iguales @user,2
 "@user el canal de ""Global Talents"" suele ser rápido en subir actuaciones, valoraciones, previos, y resultados...",0
 "@user En vez de perseguir a corruptos y defraudadores, pretenden encarcelar a quienes cuestionan al poder con unos cuentos tuits",2
 "@user no te preocupes ^^ como dije...ELF puede hacer lo que quiera, a mi solo me importa SJ",1
@@ -760,7 +756,7 @@ Vamos Ame vamos....bahhh.....q mas da.....conence el año cansada..... quiero so
 "voy a salir a comprar mayolicas y acabados a habich, veamos q sucede en el camino, la gente buena celulares prendidos porfavor, 3, 2 ,1",1
 @user Muchísimas gracias por difundir  ¡Un abrazo!,0
 "He visto un Allen Walker en la Expo que uff, menudo cosplay, yo iba de Lena pero sin peluca, quería una puta foto",2
-"Ya no puedo la broma de ""estoy embarazada"" por el día de los inocentes.",1
+"Ya no puedo la broma de ""estoy embarazada"" por el día de los inocentes.",2
 Que guay que @user sea nuevo concursante de @user seguro que lo hace genial....Me encanta!!!,0
 "@user impresionante lo que hizo Alejandra por Dios que feo que se hagan de rogar pa competir, falta de humildad. Vamos rojo.....",2
 "@user @user De nuevo, encantado. Y a mi tampoco me gustan esos titulares tendenciosos. Pero tampoco los opuestos  Saludos.",1
@@ -781,7 +777,6 @@ Ayer me dieron una botella y le pegue un trago pensando que era yin o Fresca gra
 Desde mañana me dedicaré a estudiar y dejaré mis sentimientos amorosos por otro lado,1
 "@user ¡Enhorabuena! Eres el ganador del sorteo, escríbenos un mensaje privado para darte el premio",0
 @user pero el caso es que en Humanidades hay latín y griego y yo en mi vida he dado latin y griego así que me iria fatal en ellas,2
-11:11 que no me encuentre mal,1
 "Fue un bonito fin de semana cumpleañero : amigos, familia, torta, comida rica, juegos de mesa y muchas risas. Me siento bendecido y feliz",0
 "@user ehhhhhhh ese no he sido yo, y lo digo muy en serio  hasta los cojones de que me roben mi puto identidad.",2
 "Mañana debuto en percusión para leones chinos, ya puedo dejar de ser una samulnorian frustrada. Aunque el traje de Samulnori es más lindo",1
@@ -793,7 +788,6 @@ Me iré a dormir sabiendo que la única app de manga con la que leo no tiene act
 @user jajajaja fui el primer fav de Odín con cotillón,1
 "@user En Octubre haré cositas, un fuerte abrazo",0
 @user De pequeño escribía con la zurda hasta que una profesora me obligó a hacerlo con la diestra,2
-@user jajajaja yo igual. La gente no sabe lo que se pierde,1
 "El amor incondicional es esa clase de sentimiento que busca la felicidad de otro ser, incluso a costa del suyo. Familia es quien te ama.",0
 Soy un chico muy perverso,2
 @user puedes ver el partido en directo en el Facebook de informe Bolorino,1
@@ -832,7 +826,7 @@ me siento orgullosa de ser tu fan @user desde hace muchos años ...ese speach lo
 @user podemos usar el término.equipo pepino,1
 "@user @user no, si pagar le pagaba bien, tranquilo",0
 @user creo que soy la única que pringa trabajando todo el verano y todo septiembre,2
-"El día del hombre pasó desapercibido por las mujeres, si fuera al revés no nos perdonan",1
+"El día del hombre pasó desapercibido por las mujeres, si fuera al revés no nos perdonan",2
 @user jajajajajaja me meo que yo tengo mi novio y él tiene su novia y estamos los dos contentos,0
 @user @user y donde están esos fiscales q los afinen bien un tío mata 2 ciclistas en la puta calle q está pasando aquí?,2
 "@user Ánimo, Jorge. Piensa en tus nuevas víctimas",1
